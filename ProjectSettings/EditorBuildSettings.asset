@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UnityNetworking/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/UnityNetworking/NetworkPlugin/LobbySystem/Example/Scenes/LobbySystem.unity
+    guid: 81017735eb041eb40afd1d22960323d6
+  - enabled: 1
+    path: Assets/UnityNetworking/NetworkPlugin/LobbySystem/Example/Scenes/LobbySystemOffice.unity
+    guid: ee52997c8884e3442b01c13e0cfb0a0f
+  m_configObjects: {}
